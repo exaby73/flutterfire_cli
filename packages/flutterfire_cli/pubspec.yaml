@@ -1,4 +1,4 @@
-name: flutterfire_cli
+name: flutterfire_cli_with_token
 description: A command-line application for FlutterFire.
 version: 0.2.3
 homepage: "https://github.com/invertase/flutterfire_cli"
